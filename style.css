@@ -1,0 +1,58 @@
+html {
+    box-sizing: border-box;
+    display:inline-block;
+    background-color: lightblue;
+}
+
+#main-title {
+    font-size:60px;
+    background-color:cornsilk;
+    border-style:solid;
+    border: 20px bisque double;
+    color:rgb(25, 76, 170);
+    height: 60px;    
+    width: 1300px;
+    text-align:center;
+    margin-left:40px;
+    padding-bottom:10px;
+}
+
+.images {
+    height:auto;
+    width:300px;
+}
+
+div {
+    border:13px bisque double;
+    width:300px;
+    background-color: cornsilk;
+}
+
+.fourth {
+    margin-left: 150px;
+}
+
+.fifth {
+    margin-top: 300px;
+    margin-left: 970px;
+}
+#description {
+    font-weight: 700;
+    font-size: 28px;
+    color:antiquewhite;
+    margin-left: 60px;
+    margin-right:50px;
+    margin-bottom:80px;
+}
+
+.name {
+    font-size: 34px;
+    color:antiquewhite;
+    height:120px;
+    width:340px;
+}
+
+#josie {
+    margin-left:700px;
+    margin-top:-270px;
+}
